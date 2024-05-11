@@ -15,3 +15,7 @@ struct CheryPickApp: App {
         }
     }
 }
+
+struct MOdel {
+    var new: String = ""
+}
