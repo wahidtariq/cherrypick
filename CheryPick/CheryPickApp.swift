@@ -18,4 +18,5 @@ struct CheryPickApp: App {
 
 struct MOdel {
     var new: String = ""
+    var new1: String = ""
 }
